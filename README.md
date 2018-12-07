@@ -1,3 +1,9 @@
+# Seach-App
+This is a project to practice working with create-react-app. Most of this readme is created at the time of running the initial
+create-react-app command.
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
