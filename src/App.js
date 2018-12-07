@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
-import {Jumbotron, Grid} from 'react-bootstrap';
+import {Grid, Jumbotron} from 'react-bootstrap';
+import SearchForm from './components/SearchForm';
 
 
 class App extends Component {
@@ -10,6 +11,7 @@ class App extends Component {
           <Grid>
             <h1>Search App</h1>
             <p>This is a simple search app</p>
+            <SearchForm />
           </Grid>
         </Jumbotron>
       </div>
